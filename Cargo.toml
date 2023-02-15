@@ -1,7 +1,15 @@
 [package]
 name = "random-wall"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
+authors = ["Hipy Cas <itshipycas@proton.me>"]
+description = "A simple web server written with Rust to use local a local folder for the Random Wallpaper GNOME extension"
+readme = "https://codeberg.org/HipyCas/random-wall/src/branch/main/README.md"
+repository = "https://codeberg.org/HipyCas/random-wall/"
+license = "GPL-3.0-only"
+license-file = "LICENSE"
+keywords =["wallpaper", "gnome", "extension", "server"]
+exclude =["exampleconf.png"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
