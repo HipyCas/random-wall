@@ -16,7 +16,7 @@ You can get the `random-wall` executable from either of this sources:
 
 - This repo releases page
 
-- From [crates.io] with `cargo install random-wall` (requires a valid Rust installation)
+- From [crates.io](https://crates.io/) with `cargo install random-wall` (requires a valid Rust installation)
 
 - By cloning the repo and building from source (Rust version used is `stable 1.66.1`)
 
